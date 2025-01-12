@@ -58,5 +58,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 #### Contact
 For questions or feedback, contact:
 - Email: rishavlincoln@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/rishavsofer)
+- GitHub: [rishavsofer](https://github.com/rishavsofer)
 
