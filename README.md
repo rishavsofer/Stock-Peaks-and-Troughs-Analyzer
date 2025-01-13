@@ -52,9 +52,6 @@ A detailed plot will also be displayed showing the price trends and key points.
 #### Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for enhancements or bug fixes.
 
-#### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 #### Contact
 For questions or feedback, contact:
 - Email: rishavlincoln@gmail.com
